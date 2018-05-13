@@ -1,0 +1,1 @@
+c:\\windows\\system32\\cleanmgr.exe /dc /sagerun: 1
